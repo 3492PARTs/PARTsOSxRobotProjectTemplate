@@ -1,8 +1,8 @@
 # PARTsRobotProjectTemplate
 This is a template for FIRST Robotics Team 3492 to follow when starting and coding a robot project. In this template you will find:
-*Icons
-*A blank robot project
-*Git ignore file
+* Icons
+* A blank robot project
+* Git ignore file
 
 ##Icons
 In this folder you will find various sized PARTs icons. They should be used when making VIs. To use the icons, you should put the folder in C:\Users\USER\Documents\LabVIEW Data. After that the icons will be visible to LabVIEW.
